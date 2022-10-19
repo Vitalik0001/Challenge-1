@@ -1,0 +1,120 @@
+.div {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  background-color: #0da3b4;
+  max-width: 1440px;
+  height: 500px;
+  overflow: hidden;
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+}
+
+.l-1 {
+  width: 450px;
+  height: auto;
+  margin-top: 200px;
+  margin-left: 720px;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.c-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  width: 450px;
+  border-radius: 15px;
+}
+
+.circle {
+  position: absolute;
+  z-index: -1;
+}
+
+.p-1 {
+  position: absolute;
+  top: -640px;
+  left: -100px;
+}
+
+.p-2 {
+  position: absolute;
+  top: 275px;
+  left: 970px;
+}
+
+.man-victor {
+  border: 5px solid;
+  border-color: white;
+  margin-top: -50px;
+  border-radius: 100px;
+}
+
+.container {
+  width: 100%;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  text-align: center;
+  border-top: 1px solid lightgray;
+}
+
+.t-1 {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.k-1 {
+  border-radius: 15px 15px 0px 0px;
+}
+
+.y-1 {
+  font-weight: 100;
+  color: rgb(145, 141, 141);
+  padding-left: 7px;
+}
+
+.y-2 {
+  color: rgb(145, 141, 141);
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+.container a {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.h-1 span {
+  color: rgb(145, 141, 141);
+  font-weight: lighter;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.h-2 span {
+  color: rgb(145, 141, 141);
+  font-weight: lighter;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.h-3 span {
+  color: rgb(145, 141, 141);
+  font-weight: lighter;
+  font-size: 12px;
+  letter-spacing: 2px;
+}/*# sourceMappingURL=main.css.map */
